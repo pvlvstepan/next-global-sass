@@ -3,10 +3,10 @@
     "version": "1.0.0",
     "description": "Import component-level SASS stylesheets anywhere in your project, just like in CRA",
     "main": "index.js",
-    "author": "pvlv.stepan",
-    "repository": "pvlv.stepan/next-global-sass",
+    "author": "Stepan Pavlov",
+    "repository": "pvlvstepan/next-global-sass",
     "license": "MIT",
     "peerDependencies": {
-        "webpack": "^5.0.0"
+        "webpack": "^4.0.0 || ^5.0.0"
     }
 }
