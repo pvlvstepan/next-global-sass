@@ -1,7 +1,7 @@
 {
     "name": "next-global-sass",
     "version": "1.0.0",
-    "description": "Import component-level SASS stylesheets anywhere in your project, just like in CRA",
+    "description": "Import component-level SASS stylesheets anywhere in your Next.js project, just like in CRA",
     "main": "index.js",
     "author": "Stepan Pavlov",
     "repository": "pvlvstepan/next-global-sass",
