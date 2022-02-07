@@ -1,0 +1,12 @@
+{
+    "name": "next-global-sass",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "author": "pvlv.stepan",
+    "repository": "pvlv.stepan/next-global-sass",
+    "license": "MIT",
+    "peerDependencies": {
+        "webpack": "^5.0.0"
+    }
+}
