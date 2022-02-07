@@ -1,6 +1,6 @@
 // https://github.com/vercel/next.js/discussions/14672#discussioncomment-2052410
 
-module.exports = ({ dynamicAssetPrefix = false, ...nextConfig } = {}) => {
+module.exports = ({ ...nextConfig } = {}) => {
     return Object.assign({}, nextConfig, {
         webpack: (config, options) => {
             let oneOfRules = config.module.rules.find((x) => x.oneOf).oneOf;
