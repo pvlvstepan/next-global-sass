@@ -1,7 +1,7 @@
 {
     "name": "next-global-sass",
     "version": "1.0.0",
-    "description": "",
+    "description": "Import component-level SASS stylesheets anywhere in your project, just like in CRA",
     "main": "index.js",
     "author": "pvlv.stepan",
     "repository": "pvlv.stepan/next-global-sass",
