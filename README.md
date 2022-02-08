@@ -9,6 +9,10 @@
 
 This package does not include support for SASS automatically, please follow setup instructions on [Next.js official docs](https://nextjs.org/docs/basic-features/built-in-css-support#sass-support)
 
+## Demo
+
+Check out this example on [StackBlitz](https://stackblitz.com/edit/nextjs-p64sa5?file=pages/index.js) to see how it works
+
 ## Installation
 
 ```sh
